@@ -1,0 +1,10 @@
+[package]
+name = "pomi"
+description = "A lovely Pomodoro timer"
+repository = "https://github.com/june349/pomi"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+authors = ["June C"]
+
+[dependencies]
