@@ -10,3 +10,4 @@ keywords = ["cli", "pomodoro"]
 categories = ["command-line-utilities"]
 
 [dependencies]
+clap = { version = "4.5.23", features = ["derive"] }
