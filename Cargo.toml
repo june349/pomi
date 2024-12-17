@@ -1,0 +1,12 @@
+[package]
+name = "pomi"
+description = "A lovely Pomodoro timer"
+repository = "https://github.com/june349/pomi"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["June C"]
+keywords = ["cli", "pomodoro"]
+categories = ["command-line-utilities"]
+
+[dependencies]
